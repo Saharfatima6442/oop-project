@@ -1,4 +1,4 @@
-#! /bin/usr/env Node
+#!/bin/usr/env Node
 class Person {
      Personality: string;
     constructor (Personality:string){
