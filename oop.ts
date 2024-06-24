@@ -1,5 +1,5 @@
+#!/ bin/usr/env Node
 class Person {
-     name: string;
      Personality: string;
     constructor (Personality:string){
         this.Personality = "2";
