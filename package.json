@@ -1,6 +1,6 @@
 {
-  "name": "sahar6442-oop-project",
-  "version": "1.0.0",
+  "name": "sahar-6442-oop-project",
+  "version": "1.0.1",
   "main": "oop.js",
   "type": "module",
   "publishConfig": {"access": "public"},
