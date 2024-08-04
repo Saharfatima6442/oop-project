@@ -2,7 +2,7 @@
 class Person {
      Personality: string;
     constructor (Personality:string){
-        this.Personality = "2";
+        this.Personality = "1";
     }
 };
 class getPersonality extends Person {result() {
